@@ -129,6 +129,8 @@ dmypy.json
 .pyre/
 
 images/
+images.zip
 pretrained/
+pretrained.zip
 
 .DS_Store
